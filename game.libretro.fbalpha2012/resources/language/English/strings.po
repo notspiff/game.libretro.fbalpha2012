@@ -47,3 +47,4 @@ msgstr ""
 msgctxt "#30007"
 msgid "L/R P2 gamepad scheme"
 msgstr ""
+
