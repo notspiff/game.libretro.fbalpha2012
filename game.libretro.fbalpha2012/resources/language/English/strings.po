@@ -21,17 +21,29 @@ msgid "Settings"
 msgstr ""
 
 msgctxt "#30001"
-msgid "Controls"
+msgid "Core-provided aspect ratio"
 msgstr ""
 
 msgctxt "#30002"
-msgid "CPU Speed Overclock"
+msgid "P1 control scheme"
 msgstr ""
 
 msgctxt "#30003"
-msgid "Diagnostics"
+msgid "P2 control scheme"
 msgstr ""
 
 msgctxt "#30004"
-msgid "Neo Geo UniBIOS"
+msgid "CPU overclock"
+msgstr ""
+
+msgctxt "#30005"
+msgid "Hiscores"
+msgstr ""
+
+msgctxt "#30006"
+msgid "L/R P1 gamepad scheme"
+msgstr ""
+
+msgctxt "#30007"
+msgid "L/R P2 gamepad scheme"
 msgstr ""
